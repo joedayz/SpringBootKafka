@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/13-QueriesAndQueryDispatching/bank-account/account.cmd/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/13-QueriesAndQueryDispatching/bank-account/account.common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/13-QueriesAndQueryDispatching/bank-account/account.query/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/13-QueriesAndQueryDispatching/cqrs-es/cqrs.core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/14-QueryHandling/bank-account/account.cmd/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/14-QueryHandling/bank-account/account.common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/14-QueryHandling/bank-account/account.query/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/14-QueryHandling/cqrs-es/cqrs.core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/15-QueryControllers/bank-account/account.cmd/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/15-QueryControllers/bank-account/account.common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/15-QueryControllers/bank-account/account.query/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/15-QueryControllers/cqrs-es/cqrs.core/src/main/java" charset="UTF-8" />
+  </component>
+</project>
